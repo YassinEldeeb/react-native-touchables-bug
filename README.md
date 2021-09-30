@@ -2,8 +2,8 @@
 
 ### Reproduce:
 
-Clone the repo `git clone https://github.com/YassinEldeeb/react-native-touchables-bug`
+clone the repo: `git clone https://github.com/YassinEldeeb/react-native-touchables-bug`
 
-`yarn` in your terminal to install the dependencies
+run `yarn` in your terminal to install the dependencies
 
-`yarn start` to start the app
+start the app using `yarn start`
